@@ -19,11 +19,12 @@
         <activity android:name=".Main3Activity" />
         <activity android:name=".DateTimePicr" />
         <activity android:name=".AudioVideoExpl" />
-        <activity android:name=".ListvwExpl"></activity>
-        <activity android:name=".SmsActy">
+        <activity android:name=".ListvwExpl" />
+        <activity android:name=".SmsActy"></activity>
+        <activity android:name=".CamExpl">
 
         </activity>
-        <activity android:name=".CamExpl"><intent-filter>
+        <activity android:name=".AnimationExpl"><intent-filter>
             <action android:name="android.intent.action.MAIN" />
 
             <category android:name="android.intent.category.LAUNCHER" />
